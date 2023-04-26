@@ -1,0 +1,4 @@
+git+https://github.com/huggingface/diffusers.git@main
+transformers==4.26.0
+accelerate
+safetensors
