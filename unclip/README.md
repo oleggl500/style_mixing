@@ -11,4 +11,5 @@ Input images:
 ![style](assets/style_1.png "style")
 
 Result:
+
 ![remix](assets/remix.jpg "remix")
